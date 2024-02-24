@@ -1,1 +1,3 @@
-Diwali Sales Analysis Project
+Diwali Sales Analysis Project.
+<br>
+Author - Ansh Arora
